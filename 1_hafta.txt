@@ -1,0 +1,2 @@
+‘Merhaba GitHub; Doğal Dil İşleme dersi 
+uygulamalarına hoş geldiniz.’
